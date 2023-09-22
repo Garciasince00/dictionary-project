@@ -10,11 +10,17 @@ export default function App() {
           <h1>Dictionary Web Application</h1>
         </header>
         <main>
-          <Dictionary defaultKeyword="sunset"/>
+          <Dictionary defaultKeyword="sunset" />
         </main>
         <footer className="App-footer">
           <small>
-            This project was coded by Sandra Garcia and is open sourced
+            This project was coded by Sandra Garcia and is{" "}
+            <a
+              href="https://github.com/Garciasince00/dictionary-project"
+              target="_blank"
+            >
+              open sourced
+            </a>
           </small>
         </footer>
       </div>
