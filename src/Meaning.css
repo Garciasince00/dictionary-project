@@ -1,0 +1,18 @@
+.Meaning h3 {
+    font-size: 24px;
+    line-height: 1.5;
+    font-weight: bold;
+    color: rgb(102, 61, 157);
+}
+
+.Definition {
+    font-size: 18px;
+}
+
+.Example {
+    color: #70757a;
+    font-style: italic;
+ margin: 6px 0;
+ font-size: 17px;
+}
+
